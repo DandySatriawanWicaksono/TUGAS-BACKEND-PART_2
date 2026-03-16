@@ -1,0 +1,2 @@
+Website portofolio ini dirancang untuk menampilkan informasi mengenai profil pribadi, keahlian, serta kumpulan proyek desain yang telah saya kerjakan. Pada website ini terdapat beberapa bagian utama seperti biodata, keahlian yang saya miliki dalam menggunakan berbagai software desain, galeri proyek desain, serta halaman kontak. Website ini dibuat menggunakan HTML, CSS, dan framework Bootstrap dengan tujuan memberikan tampilan yang sederhana, rapi, dan mudah diakses sebagai media untuk memperkenalkan karya dan kemampuan saya di bidang desain grafis.
+
