@@ -1,0 +1,136 @@
+.profileimage {
+  width: 200px;
+}
+
+.profile {
+  margin: 100px 0 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+body {
+  background-color: #0498ca6e;
+  background-size: 10px;
+}
+
+.profile h2 {
+  color: white;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+  font-weight: 700;
+  font-size: 40px;
+  font-style: italic;
+  font-variant: small-caps;
+}
+
+.profile h4 {
+  color: black;
+  font-weight: 700;
+  font-style: italic;
+  font-variant: small-caps;
+  font-size: 30px;
+  margin-top: -10px;
+}
+
+.biodata {
+  background-color: white;
+}
+
+.titlebio {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  font-weight: 700;
+  font-style: italic;
+  font-variant: small-caps;
+  font-size: 30px;
+}
+
+.col {
+  text-align: justify;
+  padding-right: 70px;
+  padding-bottom: 30px;
+}
+
+.skills {
+  margin-top: 10px;
+}
+
+.titleskills {
+  padding-top: 30px;
+  margin: 10px 0 1px;
+  font-weight: 700;
+  font-size: 30px;
+  font-style: italic;
+  font-variant: small-caps;
+}
+
+.row {
+  padding-bottom: -10px;
+}
+.card {
+  transform: translateY(-30px);
+  width: 18rem;
+  height: 520px;
+  border-radius: 12px;
+  margin: 50px;
+}
+
+.project {
+  background-color: white;
+}
+
+.titleproject {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  font-weight: 700;
+  font-style: italic;
+  font-variant: small-caps;
+  font-size: 30px;
+}
+
+.project_img {
+  margin-left: 50px;
+  width: 280px;
+  height: 350px;
+  object-fit: cover;
+}
+
+.col p {
+  text-align: center;
+  margin-top: 10px;
+  margin-left: 40px;
+  font-weight: 700;
+  font-style: italic;
+  font-variant: small-caps;
+  font-size: 20px;
+}
+
+.contact {
+  size: 30px;
+  margin-bottom: 50px;
+}
+
+.contact h1 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  font-weight: 700;
+  font-style: italic;
+  font-variant: small-caps;
+  font-size: 30px;
+}
+
+.contact h3 {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-weight: 700;
+  font-style: italic;
+  font-variant: small-caps;
+  font-size: 30px;
+}
+
+.contact button {
+  margin-top: 20px;
+  border-radius: 10px;
+}
